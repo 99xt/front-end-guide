@@ -32,7 +32,7 @@ If your company is exploring a modern JavaScript stack as well, you may find thi
 
 - [Single-page Apps (SPAs)](#single-page-apps-spas)
 - [New-age JavaScript](#new-age-javascript)
-- [Angular 1 Style Guide](# Angular 1 Style Guide)
+- [Angular 1 Style Guide](#angular-1-style-guide)
 - [User Interface](#user-interface---react)
 - [State Management](#state-management---fluxredux)
 - [Coding with Style](#coding-with-style---css-modules)
