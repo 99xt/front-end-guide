@@ -1,5 +1,4 @@
-Grab Front End Guide
-==
+# Grab Front End Guide
 
 [![Front End Developer Desk](images/desk.png)](https://dribbble.com/shots/3577639-Isometric-Developer-Desk)
 
@@ -19,7 +18,7 @@ If you are familiar with front end development and have been consistently keepin
 
 If your company is exploring a modern JavaScript stack as well, you may find this study plan useful to your company too! Feel free to adapt it to your needs. We will update this study plan periodically, according to our latest work and choices.
 
-*- Grab Web Team*
+_- Grab Web Team_
 
 **Pre-requisites**
 
@@ -209,6 +208,8 @@ If you are a total beginner to CSS, Codecademy's [HTML & CSS course](https://www
 #### Study Links
 
 - [Learn HTML & CSS course on Codecademy](https://www.codecademy.com/learn/learn-html-css)
+- [Learn HTML on W3schools](https://www.w3schools.com/html/)
+- [Learn CSS on W3schools](https://www.w3schools.com/css)
 - [Intro to HTML/CSS on Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [SMACSS](https://smacss.com/)
 - [BEM](http://getbem.com/introduction/)
@@ -447,7 +448,7 @@ We made our technical decisions based on what was important to a rapidly growing
 
 As the front end ecosystem grows, we are actively exploring, experimenting and evaluating how new technologies can make us a more efficient team and improve our productivity. We hope that this post has given you insights into the front end technologies we use at Grab. If what we are doing interests you, [we are hiring](https://grab.careers)!
 
-*Many thanks to [Joel Low](https://github.com/lowjoel), [Li Kai](https://github.com/li-kai) and [Tan Wei Seng](https://github.com/xming13) who reviewed drafts of this article.*
+_Many thanks to [Joel Low](https://github.com/lowjoel), [Li Kai](https://github.com/li-kai) and [Tan Wei Seng](https://github.com/xming13) who reviewed drafts of this article._
 
 ### More Reading
 
